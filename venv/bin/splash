@@ -1,0 +1,4 @@
+#!/Users/mian/ScrapedData/ScrapedHotelReviews/venv/bin/python3.12
+
+from splash.server import main
+main()
